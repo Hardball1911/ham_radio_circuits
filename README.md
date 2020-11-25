@@ -1,2 +1,3 @@
 # ham_radio_circuits
-buncha ham radio circuits will be here
+The circuits shown in this repository are not completely my own, and I will reference the circuits I have used to make the circuits you see. Sometimes, we need circuits in a different form factor than what they are commercially available, so I often change them to suit my needs. Most people don't know how to do this, but those of you seeing this repository will typically have a kick-ass knowledge of circuit design. Often, when I make my alterations, the are to suit specific needs, and may not be uniform for everyone's needs. Feel free to change my changes to suit your needs, just don't try to copyright them and make them your own for commercial use, and I won't be a dick about it. 
+Have fun, and let's get to some HAM radio stuff. Or secret squirrel stuff. Or tactical stuff. Up to you...
