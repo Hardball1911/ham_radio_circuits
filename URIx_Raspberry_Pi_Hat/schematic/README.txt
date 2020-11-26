@@ -1,0 +1,1 @@
+This circuit is a URIx, redesigned to take the newer version of the CM119B. It leaves up to the builder the cable interface, so connecting to a radio should be easier to do than making a DB25 connector to match. Good luck, have fun.
