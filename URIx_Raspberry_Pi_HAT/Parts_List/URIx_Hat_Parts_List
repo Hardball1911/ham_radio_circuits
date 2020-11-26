@@ -1,0 +1,104 @@
+Partlist
+
+Exported from URIx Hat_Alt_Headers.brd at 11/25/2020 1:34 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value            Package                 Library                               Position (mil)        Orientation
+
+C1       4.7              C0603K                  adafruit                              (2750 1550)           R0
+C2       4.7              C0603K                  adafruit                              (2500 2000)           R180
+C3       .1               C0603K                  adafruit                              (2700 2100)           R180
+C4       4.7              C0603K                  adafruit                              (2700 2050)           R180
+C5       10uF             C0603K                  adafruit                              (1200 350)            R90
+C6       47pF             C0603K                  adafruit                              (2750 1600)           R0
+C7       47pF             C0603K                  adafruit                              (2750 1650)           R0
+C8       47pF             C0603K                  adafruit                              (2900 700)            R90
+C9       47pF             C0603K                  adafruit                              (800 950)             R0
+C10      47pF             C0603K                  adafruit                              (800 1000)            R0
+C11      47pF             C0603K                  adafruit                              (800 1050)            R0
+C12      47pF             C0603K                  adafruit                              (1250 700)            R90
+C13      47pF             C0603K                  adafruit                              (1200 700)            R90
+C14      47pF             C0603K                  adafruit                              (1150 700)            R90
+C15      47pF             C0603K                  adafruit                              (1100 700)            R90
+C16      47pF             C0603K                  adafruit                              (1050 700)            R90
+C17      47pF             C0603K                  adafruit                              (800 1250)            R0
+C18      6800pF           C0603K                  adafruit                              (2100 1050)           R180
+C20      47pF             C0603K                  adafruit                              (800 1200)            R0
+C21      .1               C0603K                  adafruit                              (2450 700)            R0
+C22      47pF             C0603K                  adafruit                              (800 1150)            R0
+C23      .015uF           C0603K                  adafruit                              (2100 1100)           R0
+C24      6800pF           C0603K                  adafruit                              (800 1350)            R0
+C25      100uF            C0603K                  adafruit                              (1200 550)            R0
+C26      10uF             C0603K                  adafruit                              (1000 700)            R90
+C27      47pF             C0603K                  adafruit                              (950 700)             R90
+C28      47pF             C0603K                  adafruit                              (800 1100)            R0
+C29      150pF            C0603K                  adafruit                              (850 1650)            R0
+C30      .1uF             C0603K                  adafruit                              (2450 650)            R0
+C31      .1uF             C0603K                  adafruit                              (2450 750)            R0
+C32      10uF             C0603K                  adafruit                              (1950 1600)           R0
+C33      .015uF           C0603K                  adafruit                              (2300 750)            R180
+C34      100uF            C0603K                  adafruit                              (800 1300)            R0
+C35      10uF             C0603K                  adafruit                              (850 1600)            R180
+C37      10uF             C0603K                  adafruit                              (900 700)             R270
+C38      47pF             C0603K                  adafruit                              (850 700)             R90
+D1       PGB001           CB417-15                diode                                 (3100 1200)           R0
+D2       PGB001           CB417-15                diode                                 (3100 1400)           R0
+D3       MBR0520LT1G      SOD-123                 Diodes                                (1950 1900)           R0
+D4       MBR0520LT1G      SOD-123                 Diodes                                (1950 1800)           R0
+F1       6V/0.5A          1206                    SparkFun-Fuses                        (2700 2200)           R0
+IC1      MCP604SL         SO14                    linear                                (2400 950)            R0
+J1                        WE-EPLE_8492121         Wurth_Signal & Communications_WE-EPLE (3050 1950)           R90
+J3                        61200621621             Wurth_Connectors_WR-BHD               (650 200)             R0
+J4                        61202021621             Wurth_Connectors_WR-BHD               (250 1200)            R90
+L1       600              L0603                   BeagleBone_Blue_R3                    (2750 1850)           R0
+L2       600              L0603                   BeagleBone_Blue_R3                    (2750 1750)           R0
+L3       600              L0603                   BeagleBone_Blue_R3                    (550 750)             R180
+L4       600              L0603                   BeagleBone_Blue_R3                    (550 500)             R270
+L5       600              L0603                   BeagleBone_Blue_R3                    (650 500)             R270
+L6       600              L0603                   BeagleBone_Blue_R3                    (550 850)             R180
+L7       600              L0603                   BeagleBone_Blue_R3                    (550 950)             R180
+L8       600              L0603                   BeagleBone_Blue_R3                    (550 1050)            R180
+L9       600              L0603                   BeagleBone_Blue_R3                    (550 1150)            R180
+L10      600              L0603                   BeagleBone_Blue_R3                    (550 1250)            R180
+L11      600              L0603                   BeagleBone_Blue_R3                    (550 1350)            R180
+L12      600              L0603                   BeagleBone_Blue_R3                    (550 1450)            R180
+L13      600              L0603                   BeagleBone_Blue_R3                    (750 500)             R90
+L14      600              L0603                   BeagleBone_Blue_R3                    (550 1550)            R180
+L15      600              L0603                   BeagleBone_Blue_R3                    (550 1650)            R180
+L17      600              L0603                   BeagleBone_Blue_R3                    (2750 1950)           R0
+LED1     GRN              CHIPLED_1206            adafruit                              (2750 250)            R180
+LED2     RED              CHIPLED_1206            adafruit                              (3000 250)            R180
+R1       0                R0402                   adafruit                              (2250 2000)           R0
+R2       22               R0402                   adafruit                              (2650 1300)           R270
+R3       22               R0402                   adafruit                              (2600 1300)           R270
+R4       DNI              R0402                   adafruit                              (2200 250)            R0
+R5       1.5K             R0402                   adafruit                              (1300 1550)           R90
+R6       330              R0402                   adafruit                              (2700 450)            R90
+R7       68K              R0402                   adafruit                              (1100 1000)           R270
+R8       470K             R0402                   adafruit                              (1950 1500)           R0
+R9       330              R0402                   adafruit                              (2900 1000)           R180
+R10      330              R0402                   adafruit                              (2750 450)            R270
+R11      12.4K            R0402                   adafruit                              (2100 1250)           R90
+R12      4.7              R0402                   adafruit                              (1500 750)            R180
+R13      7.68K            R0402                   adafruit                              (2300 1200)           R0
+R14      21.5K            R0402                   adafruit                              (2050 850)            R0
+R15      33               R0402                   adafruit                              (1500 700)            R0
+R16      12.4K            R0402                   adafruit                              (1100 1400)           R0
+R17      7.68K            R0402                   adafruit                              (2050 900)            R0
+R18      21.5K            R0402                   adafruit                              (2050 950)            R180
+R19      33               R0402                   adafruit                              (1500 650)            R0
+R20      4.7              R0402                   adafruit                              (3000 450)            R180
+R21      20K              R0402                   adafruit                              (3000 500)            R0
+R22      20K              R0402                   adafruit                              (2900 1050)           R180
+R23      1M               R0402                   adafruit                              (1100 1350)           R0
+R24      1M               R0402                   adafruit                              (1150 1000)           R90
+R25      100K             R0402                   adafruit                              (1400 1000)           R270
+R26      200K             R0402                   adafruit                              (1350 1000)           R90
+U1       CM119B           QFP50P900X900X160-48N   CM119B                                (2400 1600)           R0
+U2       RASPBERRYPI4_4GB MODULE_RASPBERRYPI4_4GB RASPBERRYPI4_4GB                      (1700 1200)           R0
+U3       IRLML2060TRPBF   SOT95P237X112-3N        IRLML2060TRPBF                        (3200 950)            R90
+U4       SMAJ48A          DIOM5126X229N           SMAJ48A                               (3150 700)            R0
+U5       LMC7101AIM5      SOT95P280X145-5N        LMC7101AIM5                           (3150 450)            R0
